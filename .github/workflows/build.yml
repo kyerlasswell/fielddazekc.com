@@ -1,4 +1,4 @@
-name: build
+name: Deploy to GitHub Pages
 
 on:
     push:
@@ -30,3 +30,13 @@ jobs:
 
             - run: pnpm install --frozen-lockfile
             - run: pnpm build
+
+    deploy:
+        environment:
+            name: github-pages
+            url: ${{ steps.deployment.outputs.page_url }}
+        needs: build
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/deploy-pages@v4
+              id: deployment
