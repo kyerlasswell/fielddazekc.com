@@ -1,70 +1,70 @@
 {
-    "config": {
-        "title": "Field Daze",
-        "description": "Your mother's favorite house guests.",
-        "theme": "dark",
-        "font": "modern",
-        "copyright": "© 2026 Field Daze, All Lefts Reserved"
+  "config": {
+    "title": "Field Daze",
+    "description": "Your mother's favorite house guests.",
+    "theme": "dark",
+    "font": "modern",
+    "copyright": "© 2026 Field Daze, All Lefts Reserved"
+  },
+  "artist": {
+    "name": "Field Daze",
+    "description": "A dream pop, indie rock quintet based in Kansas City.",
+    "bio": "And your mother's favorite house guests.",
+    "picture": "/img/Field_Daze_logo.png"
+  },
+  "socials": {
+    "instagram": "https://www.instagram.com/fielddazekcmo",
+    "facebook": "https://www.facebook.com/fielddazekcmo"
+  },
+  "payment_links": [
+    {
+      "label": "Venmo",
+      "url": "https://account.venmo.com/pay?note=Merch&recipients=%2Cdan-camino-music&txn=pay",
+      "icon": "venmo",
+      "cover": "/img/Venmo_logo.png"
     },
-    "artist": {
-        "name": "Field Daze",
-        "description": "A dream pop, indie rock quintet based in Kansas City.",
-        "bio": "And your mother's favorite house guests.",
-        "picture": "/img/Field_Daze_logo.png"
-    },
-    "socials": {
-        "instagram": "https://www.instagram.com/fielddazekcmo",
-        "facebook": "https://www.facebook.com/fielddazekcmo"
-    },
-    "payment_links": [
-        {
-            "label": "Venmo",
-            "url": "https://account.venmo.com/pay?note=Merch&recipients=%2Cdan-camino-music&txn=pay",
-            "icon": "venmo",
-            "cover": "/img/Venmo_logo.png"
-        },
-        {
-            "label": "Cash App",
-            "url": "https://cash.app/$fielddazekc",
-            "icon": "cashapp",
-            "cover": "/img/Cash_App_logo.png"
-        }
-    ],
-    "links": [
-        {
-            "label": "Bandcamp",
-            "url": "https://fielddazekc.bandcamp.com/",
-            "icon": "bandcamp",
-            "cover": "/img/bandcamp_logo.png"
-        },
-        {
-            "label": "Apple Music",
-            "url": "https://music.apple.com/ng/artist/field-daze/1600086901",
-            "icon": "applemusic"
-        },
-        {
-            "label": "Spotify",
-            "url": "https://open.spotify.com/artist/6drDBaMCFrKiO5HfHX8vwO",
-            "icon": "spotify"
-        },
-        {
-            "label": "YouTube",
-            "url": "https://www.youtube.com/@fielddazekc",
-            "icon": "youtube"
-        }
-    ],
-    "shows": [],
-    "releases": [
-        {
-            "title": "Melona 99",
-            "album": "Melona 99",
-            "releaseDate": "2024-04-20",
-            "links": {
-                "youtube": "https://youtu.be/OEiG4qMS1lU?si=6qmCGyEUESvkjdd2"
-            }
-        }
-    ],
-    "booking": {
-        "email": "fielddazekc@gmail.com"
+    {
+      "label": "Cash App",
+      "url": "https://cash.app/$fielddazekc",
+      "icon": "cashapp",
+      "cover": "/img/Cash_App_logo.png"
     }
+  ],
+  "links": [
+    {
+      "label": "Bandcamp",
+      "url": "https://fielddazekc.bandcamp.com/",
+      "icon": "bandcamp",
+      "cover": "/img/bandcamp_logo.png"
+    },
+    {
+      "label": "Apple Music",
+      "url": "https://music.apple.com/ng/artist/field-daze/1600086901",
+      "icon": "applemusic"
+    },
+    {
+      "label": "Spotify",
+      "url": "https://open.spotify.com/artist/6drDBaMCFrKiO5HfHX8vwO",
+      "icon": "spotify"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@fielddazekc",
+      "icon": "youtube"
+    }
+  ],
+  "shows": [],
+  "releases": [
+    {
+      "title": "Melona 99",
+      "album": "Melona 99",
+      "releaseDate": "2024-04-20",
+      "links": {
+        "youtube": "https://youtu.be/OEiG4qMS1lU?si=6qmCGyEUESvkjdd2"
+      }
+    }
+  ],
+  "booking": {
+    "email": "fielddazekc@gmail.com"
+  }
 }
