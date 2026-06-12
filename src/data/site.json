@@ -56,11 +56,19 @@
   "shows": [],
   "releases": [
     {
-      "title": "Melona 99",
-      "album": "Melona 99",
-      "releaseDate": "2024-04-20",
+      "title": "Circles",
+      "album": "Circles",
+      "releaseDate": "2026-06-04",
       "links": {
-        "youtube": "https://youtu.be/OEiG4qMS1lU?si=6qmCGyEUESvkjdd2"
+        "youtube": "https://www.youtube.com/watch?v=HBQt9qM4GDY"
+      }
+    },
+    {
+      "title": "Shade of Blue",
+      "album": "Shade of Blue",
+      "releaseDate": "2026-04-03",
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=4IVxkknb9GQ"
       }
     }
   ],
