@@ -19,7 +19,7 @@
     "payment_links": [
         {
             "label": "Venmo",
-            "url": "https://venmo.com/dan-camino-music",
+            "url": "https://account.venmo.com/pay?note=Merch&recipients=%2Cdan-camino-music&txn=pay",
             "icon": "venmo",
             "cover": "/img/Venmo_logo.png"
         },
