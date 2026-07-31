@@ -1,70 +1,86 @@
 {
-  "config": {
-    "title": "Field Daze",
-    "description": "Your mother's favorite house guests.",
-    "theme": "dark",
-    "font": "modern",
-    "copyright": "© 2026 Field Daze, All Lefts Reserved"
-  },
-  "artist": {
-    "name": "Field Daze",
-    "description": "A dream pop, indie rock quintet based in Kansas City.",
-    "bio": "And your mother's favorite house guests.",
-    "picture": "/img/Field_Daze_logo.png"
-  },
-  "socials": {
-    "instagram": "https://www.instagram.com/fielddazekcmo",
-    "facebook": "https://www.facebook.com/fielddazekcmo"
-  },
-  "payment_links": [
-    {
-      "label": "Venmo",
-      "url": "venmo://paycharge?txn=pay&recipients=dan-camino-music&note=Merch",
-      "icon": "venmo",
-      "cover": "/img/Venmo_logo.png"
+    "config": {
+        "title": "Field Daze",
+        "description": "Your mother's favorite house guests.",
+        "theme": "dark",
+        "font": "modern",
+        "copyright": "© 2026 Field Daze, All Lefts Reserved"
     },
-    {
-      "label": "Cash App",
-      "url": "https://cash.app/$fielddazekc",
-      "icon": "cashapp",
-      "cover": "/img/Cash_App_logo.png"
+    "artist": {
+        "name": "Field Daze",
+        "description": "A dream pop, indie rock quintet based in Kansas City.",
+        "bio": "And your mother's favorite house guests.",
+        "picture": "/img/Field_Daze_logo.png"
+    },
+    "socials": {
+        "instagram": "https://www.instagram.com/fielddazekcmo",
+        "facebook": "https://www.facebook.com/fielddazekcmo"
+    },
+    "payment_links": [
+        {
+            "label": "Venmo",
+            "url": "venmo://paycharge?txn=pay&recipients=dan-camino-music&note=Merch",
+            "icon": "venmo",
+            "cover": "/img/Venmo_logo.png"
+        },
+        {
+            "label": "Cash App",
+            "url": "https://cash.app/$fielddazekc",
+            "icon": "cashapp",
+            "cover": "/img/Cash_App_logo.png"
+        }
+    ],
+    "links": [
+        {
+            "label": "Bandcamp",
+            "url": "https://fielddazekc.bandcamp.com/",
+            "icon": "bandcamp",
+            "cover": "/img/bandcamp_logo.png"
+        },
+        {
+            "label": "Apple Music",
+            "url": "https://music.apple.com/ng/artist/field-daze/1600086901",
+            "icon": "applemusic"
+        },
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/artist/6drDBaMCFrKiO5HfHX8vwO",
+            "icon": "spotify"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/@fielddazekc",
+            "icon": "youtube"
+        }
+    ],
+    "shows": [],
+    "releases": [
+        {
+            "title": "On the Couch",
+            "album": "On the Couch",
+            "releaseDate": "2026-07-31",
+            "links": {
+                "youtube": "https://www.youtube.com/watch?v=45jR9s2lTMk"
+            }
+        },
+        {
+            "title": "Circles",
+            "album": "On the Couch",
+            "releaseDate": "2026-06-04",
+            "links": {
+                "youtube": "https://www.youtube.com/watch?v=HBQt9qM4GDY"
+            }
+        },
+        {
+            "title": "Shade of Blue",
+            "album": "On the Couch",
+            "releaseDate": "2026-04-09",
+            "links": {
+                "youtube": "https://www.youtube.com/watch?v=4IVxkknb9GQ"
+            }
+        }
+    ],
+    "booking": {
+        "email": "fielddazekc@gmail.com"
     }
-  ],
-  "links": [
-    {
-      "label": "Bandcamp",
-      "url": "https://fielddazekc.bandcamp.com/",
-      "icon": "bandcamp",
-      "cover": "/img/bandcamp_logo.png"
-    },
-    {
-      "label": "Apple Music",
-      "url": "https://music.apple.com/ng/artist/field-daze/1600086901",
-      "icon": "applemusic"
-    },
-    {
-      "label": "Spotify",
-      "url": "https://open.spotify.com/artist/6drDBaMCFrKiO5HfHX8vwO",
-      "icon": "spotify"
-    },
-    {
-      "label": "YouTube",
-      "url": "https://www.youtube.com/@fielddazekc",
-      "icon": "youtube"
-    }
-  ],
-  "shows": [],
-  "releases": [
-    {
-      "title": "Circles",
-      "album": "Circles",
-      "releaseDate": "2026-06-04",
-      "links": {
-        "youtube": "https://www.youtube.com/watch?v=HBQt9qM4GDY"
-      }
-    }
-  ],
-  "booking": {
-    "email": "fielddazekc@gmail.com"
-  }
 }
